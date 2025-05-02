@@ -9,3 +9,6 @@ Python tool that leverages **OpenAI GPT-4** to review inputted python snippets.
 <pre> <code> pip install openai  </code> </pre>
 4. Export your API key as a environment variable in your terminal
 <pre> <code> setx OPENAI_API_KEY "your_api_key_here"  </code> </pre>
+
+## Deployment
+This project was built using python 3.13. **To deploy simply run main.py.**
